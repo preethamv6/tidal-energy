@@ -59,21 +59,18 @@ When magnets move through a coil (or vice versa), the changing magnetic field in
 
 ## 🧪 Prototype Diagrams
 
-(Place your prototype image in the `images/` folder and use the line below:)
 
-```markdown
-![Tidal Power Prototype](images/tidal_prototype.jpg)
-```
+[tidal_img](tidal_img.jpg)
+
 
 ---
 
 ## 📄 Full Report
 
-Convert your DOCX report to PDF and place it inside a `docs/` folder. Then use:
 
-```markdown
-[📄 Full Report (PDF)](docs/tidal_energy_report.pdf)
-```
+
+[tidal_report](tidal_report.docx)
+
 
 ---
 
